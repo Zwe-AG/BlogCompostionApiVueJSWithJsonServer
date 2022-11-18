@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "zwehtet",
+      "body": "I am developer",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Router 1",
+      "body": "This is router",
+      "tags": [
+        "laravel",
+        "php"
+      ],
+      "id": 6
+    },
+    {
+      "title": "front-end developer",
+      "body": "I am a frontend developer",
+      "tags": [
+        "react",
+        "css",
+        "html",
+        "vue"
+      ],
+      "id": 7
+    }
+  ]
+}
